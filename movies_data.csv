@@ -1,0 +1,6 @@
+title,genre,year,revenue,awards
+Фильм 1,Drama,2020,1000000,['Oscar']
+Фильм 2,Comedy,2021,500000,[]
+Фильм 3,Action,2022,2000000,['Golden Globe']
+Фильм 4,Horror,2023,300000,"['Oscar', 'Golden Globe']"
+Фильм 5,Drama,2019,1500000,[]
